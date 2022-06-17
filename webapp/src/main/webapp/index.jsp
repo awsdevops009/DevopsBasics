@@ -3,4 +3,3 @@
 
 <h2> Good Luck and we are almost done with the course , .</h2>
 
-<h2> Good Luck and we are almost done with the course , Thanks.</h2>
